@@ -80,7 +80,7 @@ Tested and working in:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Want to request additional features or report bugs? Use the form at the bottom of the page to get in touch.
 
 ## Technical Details
 
@@ -93,17 +93,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
   - Double-click to zoom in/out
   - Mouse wheel for smooth zooming
   - Click and drag to pan
-  - Fixed-position mini-map with Google Maps integration
-  - Open location in Google Maps
+  - Fixed-position mini-map with Google Maps integration (browser viewing only)
+  - Open location in Google Maps 
 
-## License
-
-MIT License - feel free to use this project for personal or commercial purposes.
+## Contact
+Have feedback or a question? [Click here to reach out](https://tally.so/r/mDyX2l)
 
 ## Support the Project
 
 If you find this tool useful, you can [buy me a brew](https://www.buymeacoffee.com/chriscoutto) to support development!
-
-## Creator
-
-Created by [brewedbychris](mailto:brewedbychris@gmail.com)
