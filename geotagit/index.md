@@ -5,30 +5,36 @@ title: GeoTagit
 
 # GeoTagIt
 
-A modern, privacy-focused web application that extracts and displays GPS coordinates from your photos, built with React and TypeScript.
+A modern, privacy-focused web application that extracts and displays GPS coordinates from your photos, built with React, TypeScript, and Tailwind CSS.
 
 ![Photo GeoTagger Screenshot](https://images.pexels.com/photos/1051075/pexels-photo-1051075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ## Features
 
 - 📍 Extract GPS coordinates from JPEG images
-- 📅 Toggle date and time information with live preview
+- 📅 Toggle date/time information with live preview and instant reprocessing
 - 🖼️ Batch process multiple images
 - 💾 Download individual, selected, or all processed images
 - 🔍 Interactive image viewer with zoom and pan
-- 🗺️ Draggable mini-map preview
+- 🗺️ Fixed-position mini-map with Google Maps integration
 - 🔒 Client-side processing (no data uploaded to servers)
 - 📱 Responsive design for all devices
 - 🖱️ Drag and drop file upload support
+- 🎨 Modern UI with Fira Code font
+- 🔄 Real-time upload progress indicators
+- 🗑️ Easy file management with clear all/individual remove
+- 🔍 Detailed error handling and user feedback
+- 📝 Built-in privacy policy and help documentation
 
 ## Technology Stack
 
-- React 18
-- TypeScript
-- Tailwind CSS
-- Vite
+- React 18 with TypeScript
+- Tailwind CSS for styling
+- Vite for development and building
+- Lucide React for icons
 - EXIF.js for image metadata extraction
 - JSZip for batch downloads
+- Google Maps for location preview
 
 ## Getting Started
 
@@ -45,12 +51,15 @@ A modern, privacy-focused web application that extracts and displays GPS coordin
 ## Usage
 
 1. Click "Select Photos" to choose JPEG images
-2. Or drag and drop your photos directly into the upload area
-3. Toggle "Show Date/Time" to include timestamp information
-4. Click "Process Images" to extract GPS data
-5. View, zoom, and interact with processed images
-6. Download individual images or use "Download All" for a ZIP file
-7. Use the checkbox to select multiple images for batch download
+2. Drag and drop photos directly into the upload area
+3. Monitor upload progress for each file
+4. Toggle "Show Date/Time" to include timestamp information
+5. Click "Process Images" to extract GPS data
+6. View, zoom, and interact with processed images
+7. Use checkboxes to select multiple images for batch download
+8. Download individual images or use "Download All" for a ZIP file
+9. Click the help icon for usage instructions
+10. View privacy policy for data handling details
 
 ## Privacy & Security
 
@@ -84,10 +93,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
   - Double-click to zoom in/out
   - Mouse wheel for smooth zooming
   - Click and drag to pan
+  - Fixed-position mini-map with Google Maps integration
+  - Open location in Google Maps
 
 ## License
 
 MIT License - feel free to use this project for personal or commercial purposes.
+
+## Support the Project
+
+If you find this tool useful, you can [buy me a brew](https://www.buymeacoffee.com/chriscoutto) to support development!
 
 ## Creator
 
