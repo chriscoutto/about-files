@@ -36,18 +36,6 @@ A modern, privacy-focused web application that extracts and displays GPS coordin
 - JSZip for batch downloads
 - Google Maps for location preview
 
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
 ## Usage
 
 1. Click "Select Photos" to choose JPEG images
@@ -100,5 +88,4 @@ Want to request additional features or report bugs? Use the form at the bottom o
 Have feedback or a question? [Click here to reach out](https://tally.so/r/mDyX2l)
 
 ## Support the Project
-
 If you find this tool useful, you can [buy me a brew](https://www.buymeacoffee.com/chriscoutto) to support development!
