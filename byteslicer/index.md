@@ -1,4 +1,7 @@
-
+---
+layout: plain
+title: ByteSlicer
+---
 
 # ByteSlicer
 
