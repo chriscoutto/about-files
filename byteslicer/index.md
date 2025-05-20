@@ -51,19 +51,11 @@ Supports all modern browsers:
 - Firefox (latest)
 - Safari (latest)
 
-## Development
+## Contributing
+Want to request additional features or report bugs? Use the form at the bottom of the page to get in touch.
 
-To run ByteSlicer locally:
+## Contact
+Have feedback or a question? [Click here to reach out](https://tally.so/r/mDyX2l)
 
-```bash
-npm install
-npm run dev
-```
-
-## License
-
-MIT © [brewedbychris]
-
-## Credits
-
-Created with ❤️ by brewedbychris
+## Support the Project
+If you find this tool useful, you can [buy me a brew](https://www.buymeacoffee.com/chriscoutto) to support development!
