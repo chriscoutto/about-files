@@ -7,5 +7,6 @@ relative_links:
 
 include:
   - geotagit/index.md
+  - byteslicer/index.md
 
 markdown: kramdown
